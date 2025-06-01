@@ -46,7 +46,7 @@
 </details>
 
 #### Project Description
-This project is the end-of-year assignment for **GEOL0069: AI for Earth Observation**.  
+This project is the end-of-year assignment for **GEOL0069: Artificial Intelligence For Earth Observation (AI4EO) 24/25**.  
 We explore both unsupervised methods (K-Means, Gaussian Mixture Model) and supervised deep learning (Convolutional Neural Networks) to label clouds in satellite imagery.
 Cloud removal in satellite images enables clearer analysis for critical Earth observation applications such as:
 - Wildfire tracking  
