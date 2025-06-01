@@ -112,9 +112,9 @@ K-Means is an unsupervised clustering algorithm that partitions data into K grou
 
 To ensure the program runs correctly, you need to install the following dependencies:
 
-- numpy 1.23.4  
-- torch 1.12.1  
-- matplotlib 3.4.3  
+- numpy 1.26.4  
+- torch 2.6.0+cu124 
+- matplotlib 3.8.3  
 - rasterio 1.4.3  
 
 You can install them using commands like the one below:
