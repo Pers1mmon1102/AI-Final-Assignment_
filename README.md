@@ -125,7 +125,7 @@ pip install rasterio==1.4.3
 ##### Datasets
 This project uses the **Sentinel-2 Cloud Cover Segmentation Dataset**, which can be downloaded using the following method:
 ```
-
+https://source.coop/repositories/radiantearth/cloud-cover-detection-challenge/description
 ```
 
 Overview of the data provided for this competition:
